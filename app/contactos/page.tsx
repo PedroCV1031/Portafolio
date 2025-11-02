@@ -63,7 +63,6 @@ export default function Contactos() {
           color: 'white',
           fontStyle: 'italic'
         }}>
-          ¿Tienes un proyecto en mente? ¡Hablemos! 💬
         </p>
       </div>
 

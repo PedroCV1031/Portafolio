@@ -32,7 +32,7 @@ export default function RootLayout({
               Portafolio - Pedro Correa Valdes
             </Link>
             <ul className="nav-menu">
-              <li><Link href="/">Sobre Mí</Link></li>
+              <li><Link href="/">Perfil</Link></li>
               <li><Link href="/proyectos">Proyectos</Link></li>
               <li><Link href="/hobbies">Hobbies</Link></li>
               <li><Link href="/contactos">Contacto</Link></li>
