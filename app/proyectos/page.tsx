@@ -16,7 +16,7 @@ export default function Proyectos() {
       description: "Trabajo realizado para la materia proyecto III del programa de Ingenieria Mecatronica",
       tareas: ["Coliderar el equipo", "Conexiones electricas", "Realizacion documentacion del proyecto", "Desarrollo sistema de direccion"],
       role: "Colider",
-      image: "/hovercraft.gif"
+      image: "https://pouch.jumpshare.com/preview/3R0su25yoy79lySnpqeYDlYq3TLBJnJqjvQUWi3f6eOVB1hF6N4CSZjo6sFuBIQyAPJonVu_RiPmwxTtPwq6PI87pSEz4F_i7siQcGyWAV4"
     },
     {
       id: 3,
